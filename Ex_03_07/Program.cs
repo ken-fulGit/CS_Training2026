@@ -1,7 +1,6 @@
-﻿
-using System.Runtime.CompilerServices;
-using Ex_03_07.Modules;
-namespace Ex_03_07;
+﻿using System.Runtime.CompilerServices;
+
+namespace Ex_03_07.Modules;
 
 
 static class Program
