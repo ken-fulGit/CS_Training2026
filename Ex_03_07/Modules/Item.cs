@@ -1,4 +1,4 @@
-namespace Ex_03_07;
+namespace Ex_03_07.Modules;
 
 public class Item
 {
