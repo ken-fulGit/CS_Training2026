@@ -26,6 +26,7 @@ class Program
         foreach (var kv in sorted)
         {
             Console.WriteLine(kv.GetType());
+            Console.WriteLine(kv.GetType());
         }
 
 
